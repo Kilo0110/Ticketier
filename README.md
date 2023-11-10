@@ -2,7 +2,7 @@
 
 ## Description
 
-Ticketier is a ticket booking program written in C#, developed by KamCy Ahaka. The program allows users to create and manage events for which they want to issue tickets and reserve seats. It supports three types of events: Concert, SportsEvent, and TheatrePlay, all of which are derived classes from a base Event class.
+Ticketier is a ticket booking program written in C#, developed by [KamCy Ahaka](https://kamcyahaka.netlify.app/). The program allows users to create and manage events for which they want to issue tickets and reserve seats. It supports three types of events: Concert, SportsEvent, and TheatrePlay, all of which are derived classes from a base Event class.
 
 ## Features
 
@@ -81,10 +81,10 @@ Contributions to Ticketier are welcome. If you have any ideas, bug fixes, or imp
 
 ## License
 
-Ticketier is released under the (MIT License)[]https://en.m.wikipedia.org/wiki/MIT_License.
+Ticketier is released under the [MIT License](https://en.m.wikipedia.org/wiki/MIT_License).
 
 ## Contact
 
-For any inquiries or support, please contact me (here)[https://www.twitter.com/Kilo0110]
+For any inquiries or support, please contact me [here](https://www.twitter.com/AyamKamCy0110)
 
 Thank you for using Ticketier! Enjoy your ticket booking experience!
